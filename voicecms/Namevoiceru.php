@@ -586,9 +586,12 @@ class Namevoiceru extends VoiceCaseCore
         {
             $second+=0.4;
         }
+        
         $max = max(array($first, $second, $father));
         if ($first == $max) {$word->setNamePart('N');}
         elseif ($second == $max) {$word->setNamePart('S');}
         else {$word->setNamePart('F');}
     }
+    
+    
 }
