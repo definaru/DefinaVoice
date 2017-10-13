@@ -3,16 +3,17 @@
         <img src="https://defina.ru/img/apple-touch-icon-57x57.png" width="400" alt="Ink.Defina" />
     </a>
 </p>
-__Script name__
+
 
 # DefinaVoice
 
-Скрипт для склонения ФИО и определения пола по имени для Yii2
+__Script name__
+
 Script for incline full name and sex determination by name for Yii2
 
-##Connectivity
+## Connectivity
 
-**Settings in the Controller Yii:**
+** Settings in the Controller Yii: **
 
 ```php
 <?php
