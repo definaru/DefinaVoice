@@ -3,15 +3,16 @@
         <img src="https://defina.ru/img/apple-touch-icon-57x57.png" width="400" alt="Ink.Defina" />
     </a>
 </p>
-> Script name
+***Script name***
+-----------------------------
 # DefinaVoice
 Скрипт для склонения ФИО и определения пола по имени для Yii2
 Script for incline full name and sex determination by name for Yii2
-***
+
 ##Connectivity
 ---------
 **Settings in the Controller Yii:**
-***
+
 ```php
 <?php
 // Install on your AdminLTE framework
@@ -31,9 +32,9 @@ use budyaga_cust\users\voicecms\Namevoiceru;
 ```
 > The controller is ready. Now create a file `test.php`
 > how to configure controllers, read the documentation [https://nix-tips.ru/yii2-api-guides/](https://nix-tips.ru/yii2-api-guides/)
-***
+
 ## Demo priview page
-***
+
 ```php
 <?php
     // *здесь, в случае с женским именем лучше указать предложный падеж, другие падежи склоняют не правильно это предложение
