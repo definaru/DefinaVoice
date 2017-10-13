@@ -13,7 +13,7 @@ Script for incline full name and sex determination by name for Yii2
 
 ## Connectivity
 
-** Settings in the Controller Yii: **
+**Settings in the Controller Yii:**
 
 ```php
 <?php
